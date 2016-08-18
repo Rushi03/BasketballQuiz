@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basketball Quiz</string>
+    <string name="test">Let\'s test your knowledge in basketball!</string>
+    <string name="question_one">What value can you earn for a basket? (Check all that apply)</string>
+    <string name="question_two">Which is a basketball penalty?</string>
+    <string name="question_three">What is Allen Iverson\'s nickname?</string>
+    <string name="question_four">Was Michael Jordan\'s number 23?</string>
+    <string name="question_five">What is Dr.J\'s actual name?</string>
+    <string name="thanks">Thank you for taking this quiz!</string>
+    <string name="question_one_heading">Question 1</string>
+    <string name="question_two_heading">Question 2</string>
+    <string name="question_three_heading">Question 3</string>
+    <string name="question_four_heading">Question 4</string>
+    <string name="question_five_heading">Question 5</string>
+</resources>
